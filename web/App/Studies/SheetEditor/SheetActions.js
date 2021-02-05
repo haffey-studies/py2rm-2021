@@ -475,17 +475,26 @@ $("#run_btn").on("click",function(){
 				});
         */
 			}
-      if(github_json.organization !== ""){
-        var organization = github_json.organization;
+      if(typeof(github_json) == "undefined"){
+        try{
+          github_json = JSON.parse(Collector.electron.git.load_master());
+          var organization = github_json.organization;
+          var repository   = github_json.repository;
+        } catch(error){
+          organization = "Your github json seems broken";
+          repository = "";
+        }
       } else {
-        var organization = github_json.username;
+        var organization = github_json.organization;
+        var repository   = github_json.repository;
       }
-      var github_url =  "https://"             +
-                        organization           +
-                        ".github.io"           + "/" +
-                        github_json.repository + "/" +
-                        "web"                  + "/" +
-                        "App"                  + "/" +
+
+      var github_url =  "https://"                          +
+                        organization                        +
+                        ".github.io"                        + "/" +
+                        repository                          + "/" +
+                        "web"                               + "/" +
+                        "App"                               + "/" +
                         "RunStudy.html?platform=github&"    +
 												"location="                         +
                           $("#experiment_list").val() + "&" +
@@ -814,6 +823,7 @@ $("#save_btn").on("click", function(){
   							}
   						)
               update_master_json();
+
 
               var git_json_response = Collector.electron.git.save_master();
               var write_response = Collector.electron.fs.write_file(
