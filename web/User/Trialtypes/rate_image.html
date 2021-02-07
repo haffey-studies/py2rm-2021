@@ -46,7 +46,10 @@ This is from Borcsok, Fitzgibbins and Haffey (2020) investigation into gambling 
   <button class="btn btn-danger" onclick="Trial.submit()" id="submit_btn">Submit</button>
 </div>
 <input type="hidden" name="face_response" id="face_response"/>
+<input type="hidden" name="start_time_ms" id="start_time_ms"/>
+<input type="hidden" name="response_time_ms" id="response_time_ms"/>
 <script>
+
 no_stims = 0;
 resp_div_html = "";
 resp_upper    = 0;
@@ -100,11 +103,14 @@ function check_responses(){
     }
   }
   if(valid_responses == no_stims){
+    $("#response_time_ms").val(Trial.elapsed() - start_time);
     $("#submit_btn").click();
   }
 }
 
 $("#start_btn").on("click",function(){
+  start_time = Trial.elapsed();
+  $("#start_time_ms").val(start_time);
   $("#start_btn").hide();
   $("#face_img").css("display","block");
   $("#response_div").css("display","block");
