@@ -10,6 +10,7 @@ Otherwise, please press <b>proceed</b> to start the first of 2 blocks of trials.
 9 to 64,rate_image,user,,main_trials,1,,100px,How is the person above feeling?,Angry|Disgusted|Fear|Happy|Neutral|Sad|Surprised,,,,,400,400,,,
 0,instruct,user,"You've completed the first half of the trials, you now need to complete the second half",off,1,,,,,,,,,,,,,
 65 to 120,rate_image,user,,main_trials,1,,100px,How is the person above feeling?,Angry|Disgusted|Fear|Happy|Neutral|Sad|Surprised,,,,,400,400,,,
+0,survey,user,,surveys,1,gad7.csv,,,,,,,,,,,,
 0,survey,user,,surveys,1,lot-r.csv,,,,,,,,,,,,
 0,survey,user,,surveys,1,bfi.csv,,,,,,,,,,,,
 0,survey,user,,surveys,1,stai_state_only.csv,,,,,,,,,,,,
