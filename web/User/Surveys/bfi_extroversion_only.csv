@@ -1,0 +1,12 @@
+item_name,text,type,answers,values,score: bfi_extraversion,optional,btn_width,
+Instructions1,"Here are a number of characteristics that may or may not apply to you. For example, do you agree
+that you are someone who likes to spend time with others? Please indicate the extent to which you agree or disagree with that statement. <br><br>I see myself as someone who...",instruct,,,,,,
+bfi_1,Is talkative,likert,Disagree Strongly|Disagree a little|Neither agree nor disagree|Agree a little|Agree strongly,1|2|3|4|5,1,No,100px,
+bfi_6,Is reserved,likert,Disagree Strongly|Disagree a little|Neither agree nor disagree|Agree a little|Agree strongly,1|2|3|4|5,r1,No,100px,
+bfi_11,Is full of energy,likert,Disagree Strongly|Disagree a little|Neither agree nor disagree|Agree a little|Agree strongly,1|2|3|4|5,1,No,100px,
+bfi_16,Generates a lot of enthusiasm,likert,Disagree Strongly|Disagree a little|Neither agree nor disagree|Agree a little|Agree strongly,1|2|3|4|5,1,No,100px,
+bfi_21,Tends to be quiet,likert,Disagree Strongly|Disagree a little|Neither agree nor disagree|Agree a little|Agree strongly,1|2|3|4|5,r1,No,100px,
+bfi_26,Has an assertive personality,likert,Disagree Strongly|Disagree a little|Neither agree nor disagree|Agree a little|Agree strongly,1|2|3|4|5,1,No,100px,
+bfi_31,"Is sometimes shy, inhibited",likert,Disagree Strongly|Disagree a little|Neither agree nor disagree|Agree a little|Agree strongly,1|2|3|4|5,r1,No,100px,
+bfi_36,"Is outgoing, sociable",likert,Disagree Strongly|Disagree a little|Neither agree nor disagree|Agree a little|Agree strongly,1|2|3|4|5,1,No,100px,
+,,,,,,,,
