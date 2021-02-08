@@ -15,5 +15,5 @@ Otherwise, please press <b>proceed</b> to start the first of 2 blocks of trials.
 0,survey,user,,surveys,1,bfi.csv,,,,,,,,,,,,
 0,survey,user,,surveys,1,stai_state_only.csv,,,,,,,,,,,,
 0,survey,user,,surveys,1,bfi_extroversion_only.csv,,,,,,,,,,,,
-0,survey,user,social media,surveys,0,,,,,,,,,,,,,
+0,survey,user,,surveys,1,bsmas.csv,,,,,,,,,,,,
 0,survey,user,,off,1,demographics.csv,,,,,,,,,,,,
