@@ -34,6 +34,17 @@ All information which is collected about you during the course of the research w
 This study has been reviewed and approved by the school ethics committee and has been given a favourable ethical opinion for conduct.<br><br>
 <br>
 <h4>How is data secured?</h4>
-Data is encrypted in Collector on the participant's computer. This data cannot be decrypted without the researcher's password. For more information, go to: <a target=""_blank"" href=""https://some-open-solutions.github.io/collector/encryption.html"">https://some-open-solutions.github.io/collector/encryption.html</a>",instruct,,,,,
+Data is encrypted in Collector on the participant's computer. This data cannot be decrypted without the researcher's password. For more information, go to: <a target=""_blank"" href=""https://some-open-solutions.github.io/collector/encryption.html"">https://some-open-solutions.github.io/collector/encryption.html</a><br>
+<br>
+
+<i>This application has been reviewed by the University Research Ethics Committee and has been given a favourable ethical opinion for conduct</i>
+<br>
+<br>
+Thank you, <br>
+<br>
+Project Supervisor: Anthony Haffey<br>
+<br>
+Module convenor: Eugene McSorley  (e.mcsorley@reading.ac.uk)
+",instruct,,,,,
 Info_Accept,I understand these instructions and am happy to continue,likert,Agree,1,No,yes,
 ,

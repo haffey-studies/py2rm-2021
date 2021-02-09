@@ -2,10 +2,10 @@ item,trial type,max time,text,shuffle 1,weight,survey,btn_width,instruct_1,respo
 0,survey,user,,off,1,spring_info_sheet.csv,,,,,,,,,,,,
 0,instruct,user,"You will be presented with a series of faces. <br>
 Your task is to identify what emotion the person is feeling.<br>
-You will have 5 seconds to respond after your press the ""start"" button for each trial.<br>
+You will have 10 seconds to respond after your press the ""start"" button for each trial.<br>
 Press <b>proceed</b> to start some practice trials.",off,1,,,,,,,,,,,,,
 2 to 8,rate_image,user,,practice_trials,1,,100px,How is the person above feeling?,Angry|Disgusted|Fear|Happy|Neutral|Sad|Surprised,,,,,400,400,,,
-0,instruct,user,"Those were the practice trials. If you have any questions please ask the experimentor before proceeding. <br>
+0,instruct,user,"Those were the practice trials. If you have any questions please ask the experimenter before proceeding. <br>
 Otherwise, please press <b>proceed</b> to start the first of 2 blocks of trials.",off,1,,,,,,,,,,,,,
 9 to 64,rate_image,user,,main_trials,1,,100px,How is the person above feeling?,Angry|Disgusted|Fear|Happy|Neutral|Sad|Surprised,,,,,400,400,,,
 0,instruct,user,"You've completed the first half of the trials, you now need to complete the second half",off,1,,,,,,,,,,,,,
@@ -16,3 +16,4 @@ Otherwise, please press <b>proceed</b> to start the first of 2 blocks of trials.
 0,survey,user,,surveys,1,bfi_extroversion_only.csv,,,,,,,,,,,,
 0,survey,user,,surveys,1,bsmas.csv,,,,,,,,,,,,
 0,survey,user,,off,1,demographics.csv,,,,,,,,,,,,
+0,survey,user,,off,1,sping_debrief_sheet.csv,,,,,,,,,,,,

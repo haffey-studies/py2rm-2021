@@ -1,0 +1,28 @@
+item_name,text,type,answers,values,optional,side_by_side,
+info_sheet_description,"<h1>PARTICIPANT INFORMATION SHEET </h1>
+
+<h2>Title of Project:  <u><span>Emotion recognition</span></u>.</h2>
+
+<h2>Debrief form</h2>
+
+<h3>Researchers:  Dr Anthony Haffey <br>
+contact: a.haffey@reading.ac.uk<br>
+University of Reading</h3>
+<br>
+Thank you for participating in this study. <br>
+<br>
+In this project we were interested in your personality traits and how you responded to some some emotion recognition tasks. In particular, we were interested in whether your personality traits would predict whether you would be more accurate or less accurate. <br>
+<br>
+
+<br>
+<i>This application has been reviewed by the University Research Ethics Committee and has been given a favourable ethical opinion for conduct</i>
+<br>
+<br>
+Thank you, <br>
+<br>
+Project Supervisor: Anthony Haffey<br>
+<br>
+Module convenor: Eugene McSorley  (e.mcsorley@reading.ac.uk)
+",instruct,,,,,
+Info_Accept,I understand these instructions and am happy to continue,likert,Agree,1,No,yes,
+,
