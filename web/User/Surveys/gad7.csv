@@ -1,4 +1,4 @@
-item_name,text,type,answers,values,score: optimism,optional,btn_width,
+item_name,text,type,answers,values,score: gad_total,optional,btn_width,
 Instructions1,<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>,instruct,,,,,,
 gad7_1,"Feeling nervous, anxious or on edge?",likert,Not at all|Several days|More than half the days|Nearly every day,0|1|2|3|4,1,no,150px,
 gad7_2,Not being able to stop or control worrying?,likert,Not at all|Several days|More than half the days|Nearly every day,0|1|2|3|4,1,no,150px,

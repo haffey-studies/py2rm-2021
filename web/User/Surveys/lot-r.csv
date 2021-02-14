@@ -1,4 +1,4 @@
-item_name,text,type,answers,values,score: optimism,optional,btn_width,
+item_name,text,type,answers,values,lot_r_total,optional,btn_width,
 Instructions1,<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>,instruct,,,,,,
 lotr_1,"In uncertain times, I usually expect the best",likert,Strongly Disagree| Disagree| Neutral| Agree| Strongly Agree,0|1|2|3|4,1,no,100px,
 lotr_2,It's easy for me to relax,likert,Strongly Disagree| Disagree| Neutral| Agree| Strongly Agree,0|1|2|3|4,,no,100px,

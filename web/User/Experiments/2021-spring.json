@@ -14,7 +14,7 @@
         "type",
         "answers",
         "values",
-        "score: optimism",
+        "lot_r_total",
         "optional",
         "btn_width",
         ""
@@ -781,7 +781,7 @@
         "type",
         "answers",
         "values",
-        "score: optimism",
+        "score: stai_total",
         "optional",
         "btn_width",
         ""
@@ -1159,7 +1159,7 @@
         "type",
         "answers",
         "values",
-        "score: optimism",
+        "score: gad_total",
         "optional",
         "btn_width",
         ""

@@ -1,4 +1,4 @@
-item_name,text,type,answers,values,score: optimism,optional,btn_width,
+item_name,text,type,answers,values,score: stai_total,optional,btn_width,
 Instructions1,"<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you feel right now, that is, at this very moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best.
 </span></span>",instruct,,,,,,
 stai_1,I feel calm,likert,Not at all|A little|Somewhat|Very Much So,0|1|2|3|4,r1,no,150px,
