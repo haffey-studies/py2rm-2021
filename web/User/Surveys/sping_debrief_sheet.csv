@@ -1,7 +1,5 @@
 item_name,text,type,answers,values,optional,side_by_side,
-info_sheet_description,"<h1>PARTICIPANT INFORMATION SHEET </h1>
-
-<h2>Title of Project:  <u><span>Emotion recognition</span></u>.</h2>
+info_sheet_description,"<h2>Title of Project:  <u><span>Emotion recognition</span></u>.</h2>
 
 <h2>Debrief form</h2>
 
@@ -24,5 +22,5 @@ Project Supervisor: Anthony Haffey<br>
 <br>
 Module convenor: Eugene McSorley  (e.mcsorley@reading.ac.uk)
 ",instruct,,,,,
-Info_Accept,I understand these instructions and am happy to continue,likert,Agree,1,No,yes,
+Info_Accept,I understand these instructions and am happy for my data to be used in this study,likert,Agree|Disagree,1,No,yes,
 ,
