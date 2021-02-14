@@ -35,7 +35,7 @@
               "type",
               "answers",
               "values",
-              "lot_r_total",
+              "score: lot_r_total",
               "optional",
               "btn_width",
               ""
@@ -1468,7 +1468,7 @@
             ],
             [
               "info_sheet_description",
-              "<h1>PARTICIPANT INFORMATION SHEET </h1>\n\n<h2>Title of Project:  <u><span>Emotion recognition</span></u>.</h2>\n\n<h2>Debrief form</h2>\n\n<h3>Researchers:  Dr Anthony Haffey <br>\ncontact: a.haffey@reading.ac.uk<br>\nUniversity of Reading</h3>\n<br>\nThank you for participating in this study. <br>\n<br>\nIn this project we were interested in your personality traits and how you responded to some some emotion recognition tasks. In particular, we were interested in whether your personality traits would predict whether you would be more accurate or less accurate. <br>\n<br>\n\n<br>\n<i>This application has been reviewed by the University Research Ethics Committee and has been given a favourable ethical opinion for conduct</i>\n<br>\n<br>\nThank you, <br>\n<br>\nProject Supervisor: Anthony Haffey<br>\n<br>\nModule convenor: Eugene McSorley  (e.mcsorley@reading.ac.uk)\n",
+              "<h2>Title of Project:  <u><span>Emotion recognition</span></u>.</h2>\n\n<h2>Debrief form</h2>\n\n<h3>Researchers:  Dr Anthony Haffey <br>\ncontact: a.haffey@reading.ac.uk<br>\nUniversity of Reading</h3>\n<br>\nThank you for participating in this study. <br>\n<br>\nIn this project we were interested in your personality traits and how you responded to some some emotion recognition tasks. In particular, we were interested in whether your personality traits would predict whether you would be more accurate or less accurate. <br>\n<br>\n\n<br>\n<i>This application has been reviewed by the University Research Ethics Committee and has been given a favourable ethical opinion for conduct</i>\n<br>\n<br>\nThank you, <br>\n<br>\nProject Supervisor: Anthony Haffey<br>\n<br>\nModule convenor: Eugene McSorley  (e.mcsorley@reading.ac.uk)\n",
               "instruct",
               "",
               "",
@@ -1478,9 +1478,9 @@
             ],
             [
               "Info_Accept",
-              "I understand these instructions and am happy to continue",
+              "I understand these instructions and am happy for my data to be used in this study",
               "likert",
-              "Agree",
+              "Agree|Disagree",
               "1",
               "No",
               "yes",
