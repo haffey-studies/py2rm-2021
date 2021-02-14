@@ -1528,7 +1528,7 @@
           "type",
           "answers",
           "values",
-          "lot_r_total",
+          "score: lot_r_total",
           "optional",
           "btn_width",
           ""
